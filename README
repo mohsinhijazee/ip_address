@@ -1,7 +1,7 @@
-IpAddress
+IPAddress
 =========
 
-Introduction goes here.
+Sample datatype for Dedomenon
 
 
 Example
@@ -10,4 +10,4 @@ Example
 Example goes here.
 
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Raphael Buaduin, released under the MIT license
